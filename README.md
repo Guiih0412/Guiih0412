@@ -19,7 +19,7 @@
  
 🤝Participo semestralmente de projetos integradores, onde identificamos necessidades reais e desenvolvemos páginas web funcionais atendendo professores como clientes. Essa prática desenvolveu muito meu trabalho em equipe, colaboração, organização e proatividade.
  
-✨Fora do ambiente acadêmico, gosto de praticar futebol, caminhar, treinar na academia e jogar sinuca, truco e ping pong, além de acompanhar as partidas do Corinthians e do Barcelona. Também curto fazer design, ouvir Linkin Park e bandas de reggae e rock nacional, fotografar paisagens e jogar Haxball nos momentos livres.
+✨Fora do ambiente acadêmico, gosto de jogar futebol, ver jogos de Corinthians e Barcelona, fazer caminhada, treinar na academia e jogar sinuca, truco e ping pong. Também curto fazer design, ouvir Linkin Park e bandas de rock nacional (Detonautas, Ramirez, Vera Loca, CPM 22, Tihuana e Raimundos), fotografar paisagens e jogar Haxball nos momentos livres.
 
 
 ## 💻 Ferramentas e Tecnologias
