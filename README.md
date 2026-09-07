@@ -48,6 +48,10 @@
   <a href="https://www.last.fm/user/guih_0412" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white" target="_blank"></a>
 </div>
 
+## 📂 Acesse meu portifólio
+<a href="https://portifolio-nine-pi-86.vercel.app" target="_blank"> <img loading="lazy" src="https://img.shields.io/badge/Portif%C3%B3lio-a20ad1?style=for-the-badge&logoColor=white" alt="Portifólio"> </a>
+
+
 
 
 
